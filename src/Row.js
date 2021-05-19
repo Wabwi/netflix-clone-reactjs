@@ -42,7 +42,7 @@ const Row = ({title, fetchUrl, isLargeRow}) => {
                     setTrailerUrl(urlParams.get('v'));
 
                 })
-                .catch( (error) => console.log(error, trailerUrl));
+                .catch( (error) => console.log("error", trailerUrl));
         }
       }
 
