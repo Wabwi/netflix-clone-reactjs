@@ -27,7 +27,7 @@ const Nav = () => {
             
             <img 
                 className="nav__avatar"
-                src="https://pbs.twimg.com/profile_images/124011999041155"
+                src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png"
                 alt=""
              />
         </div>
